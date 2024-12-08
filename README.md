@@ -12,16 +12,7 @@ Este repositorio contiene los recursos necesarios para el proyecto que utiliza u
 
 ## Instrucciones para ejecutar el código
 
-### 1. Cargar el repositorio en Google Colab
-
-1. **Clonar el repositorio (opcional)**:
-   Puedes clonarlo directamente en Colab usando el comando:
-
-   ```python
-   !git clone https://github.com/Matt1300/WhitePaper.git
-   ```
-
-2. **Instalar Dependencias (en caso de ser necesario)**
+1. **Instalar Dependencias (en caso de ser necesario)**
 
    ```python
    !pip install opencv-python matplotlib numpy
@@ -29,11 +20,10 @@ Este repositorio contiene los recursos necesarios para el proyecto que utiliza u
 
 3. **Verificar que la estructura de archivos se encuentre de la siguiente manera:**
    ```python
-   WhitePaper/
+   Actividad_Paper/
    │
    ├── img/
-   │   └── imagen.png
+   │   └── resumen.png
    │   └── rostros.png
-   └── WhitePaper.ipynb
    └── README.md
    ```
