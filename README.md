@@ -15,7 +15,7 @@ Este repositorio contiene los recursos necesarios para el proyecto que utiliza u
 1. **Instalar Dependencias (en caso de ser necesario)**
 
    ```python
-   !pip install opencv-python matplotlib numpy
+   %pip install opencv-python matplotlib numpy
    ```
 
 3. **Verificar que la estructura de archivos se encuentre de la siguiente manera:**
